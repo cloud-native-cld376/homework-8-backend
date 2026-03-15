@@ -12,19 +12,19 @@ const PORT = 3000;
 
 
 const users = {
-  admin: {
-    username: 'admin',
-    password: 'admin168',
-    fullName: 'Jonh Cena',
-    email: 'admin@wwe.edu',
-    bio: 'Managing the WWE network infrastructure.'
+  "admin": {
+      username: "admin",
+      password: "password123",
+      fullName: "System Administrator",
+      email: "admin@university.edu",
+      bio: "Managing the campus network infrastructure."
   },
-  student_dev: {
-    username: 'student_dev',
-    password: 'blowaccount',
-    fullName: 'Blow Account',
-    email: 'blow@account.edu',
-    bio: 'Blow account.'
+  "student_dev": {
+      username: "student_dev",
+      password: "dev_password",
+      fullName: "Jane Developer",
+      email: "jane.d@student.edu",
+      bio: "Full-stack enthusiast and coffee drinker."
   }
 };
 
